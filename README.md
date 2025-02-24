@@ -16,8 +16,6 @@ This practice will allow you to better understand spoofing and DoS techniques, a
 
 > We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
 <!-- endhide -->
-
-<onlyfor saas="true" withBanner="false">
     
 ## 🌱 How to start a project?
 
@@ -41,8 +39,6 @@ For this specific practice of Spoofing and DoS, it is best to set up the network
 * Spoofing and DoS tools installed on virtual machines.
 * An isolated network environment.
 * Necessary tools: **arpspoof, hping3, wireshark**
-
-</onlyfor>
 
 ## 📝 Instructions
 
